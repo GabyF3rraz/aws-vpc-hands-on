@@ -11,8 +11,22 @@ Atuar como engenheira de suporte em um cenário simulado, ajudando uma startup c
 - Criação de uma **instância EC2** com acesso via SSH
 - Testes de conectividade e troubleshooting
 
-## 🧪 Prints ou Diagrama
-![Diagrama da VPC](diagram.png)
+
+## 🧪 Prints da Solução
+
+### 🔸 Print 1: Criação da VPC
+![Criação da VPC](imagens/aa1.png)
+
+---
+
+### 🔸 Print 2: Tabela de Rotas e IGW
+![Tabela de Rotas](imagens/aa2.png)
+
+---
+
+### 🔸 Print 3: EC2 em execução com acesso SSH
+![Instância EC2](imagens/aa3.png)
+
 
 ## 📄 Relatório
 Veja o relatório completo em `relatorio.md` (arquivo ainda será criado)
