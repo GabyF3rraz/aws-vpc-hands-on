@@ -12,7 +12,7 @@ Atuar como engenheira de suporte em um cenário simulado, ajudando uma startup c
 - Testes de conectividade e troubleshooting
 
 ## 🧪 Prints ou Diagrama
-
+![Diagrama da VPC](diagram.png)
 
 ## 📄 Relatório
 Veja o relatório completo em `relatorio.md` (arquivo ainda será criado)
