@@ -15,17 +15,17 @@ Atuar como engenheira de suporte em um cenário simulado, ajudando uma startup c
 ## 🧪 Prints da Solução
 
 ### 🔸 Print 1: Criação da VPC
-![Criação da VPC](imagens/aa1.png)
+![Criação da VPC](imagens/aa1.jpg)
 
 ---
 
 ### 🔸 Print 2: Tabela de Rotas e IGW
-![Tabela de Rotas](imagens/aa2.png)
+![Tabela de Rotas](imagens/aa2.jpg)
 
 ---
 
 ### 🔸 Print 3: EC2 em execução com acesso SSH
-![Instância EC2](imagens/aa3.png)
+![Instância EC2](imagens/aa3.jpg)
 
 
 ## 📄 Relatório
