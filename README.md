@@ -28,9 +28,6 @@ Atuar como engenheira de suporte em um cenário simulado, ajudando uma startup c
 ![Instância EC2](imagens/aa3.jpeg)
 
 
-## 📄 Relatório
-Veja o relatório completo em `relatorio.md` (arquivo ainda será criado)
-
 ## 🛠️ Tecnologias
 - AWS EC2
 - AWS VPC
